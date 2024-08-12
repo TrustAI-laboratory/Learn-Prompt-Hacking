@@ -1,6 +1,7 @@
 # Background
 A resources collections consists of: 
 
+* forbidden question
 * Prompt Injection
 * Prompt Jailbreak
 * Prompt Leakage
