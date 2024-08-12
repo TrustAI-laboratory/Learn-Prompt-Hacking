@@ -1,5 +1,4 @@
 # Learn-Prompt-Hacking
-The most comprehensive prompt hacking course available.
 
 This repository documents our progress on a prompt engineering and prompt hacking course, focused on 
 * developing techniques.
