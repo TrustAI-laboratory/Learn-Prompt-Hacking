@@ -29,3 +29,23 @@ But LLM application unique risks:
 * Hallucinations
 * Sensitive information disclosure (with prompt injection)
 * Security vulnerabilities
+
+
+# Red Teaming Meaning & origin
+
+* Strategy used in cybersecurity and military training
+  * A red team simulates adversaries actions andtactics
+  * Test and improve the effectiveness of anorganization's defenses
+* Red teaming employed to test the robustness, fairness, and ethical boundaries of LLM systems.
+
+
+# Red Teaming LLM applications
+
+Main Task include:
+* Try to bypass safeguards of a givenapplication.
+* Find ways to make the bot misbehave like return an inappropriate or incorrect answers to the user
+
+
+
+
+
