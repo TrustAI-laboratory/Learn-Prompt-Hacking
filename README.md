@@ -7,7 +7,7 @@
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/TrustAI-laboratory/Learn-Prompt-Hacking" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/TrustAI-laboratory/Learn-Prompt-Hacking" />
 <img alt="" src="https://img.shields.io/github/repo-size/TrustAI-laboratory/Learn-Prompt-Hacking" />
-<img alt="Downloads" src="https://static.pepy.tech/badge/Learn-Prompt-Hacking" />
+<!--<img alt="Downloads" src="https://static.pepy.tech/badge/Learn-Prompt-Hacking" />-->
 <img alt="GitHub Issues" src="https://img.shields.io/github/issues/TrustAI-laboratory/Learn-Prompt-Hacking" />
 <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/TrustAI-laboratory/Learn-Prompt-Hacking" />
 <img alt="Github License" src="https://img.shields.io/github/license/TrustAI-laboratory/Learn-Prompt-Hacking" />
