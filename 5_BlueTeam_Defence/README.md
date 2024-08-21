@@ -47,3 +47,7 @@ In addition, many scenario-based attacks, such as guiding the model to generate 
 Therefore, it is necessary to build new content review technologies that fully meet the security requirements of generative large models based on the characteristics of these models. This includes developing intelligent tools that can understand and analyze the context of multi-round dialogues, and using machine learning methods to predict and identify possible inappropriate content generation. This new technology will require a deeper understanding of the dynamics and complexity of conversations, as well as the inherent logic of model-generated responses, to provide more accurate and real-time content security solutions.
 
 
+
+# Open-Source Resources
+* [PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main)
+
