@@ -7,6 +7,7 @@ Input Processing is mainly aimed at prompts from users directly and indirectly.
 * Keywords filtering methods
 * Perplexity-based methods
 * Red-Model based Classifier
+* Red-Model based Risk Description Generation
 * Machine-Learning based Classifier
 
 ## 2、Input Security Proxy Technology
