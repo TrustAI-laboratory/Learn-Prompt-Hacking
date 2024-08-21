@@ -201,3 +201,8 @@ Redteaming exercises can result in evaluators being exposed to a range of distre
 
 Organisations have sought to mitigate these risks in several ways. Anthropic, for example, has attempted to build social support networks between their red teamers, creating online spaces for them to ‘ask questions, share examples, and discuss work and non-work related topics’. Snap and HackerOne, meanwhile, built an explicit content filter into their red teaming platform which automatically blurs harmful imagery until red teamers chooses to reveal it. 
 
+
+
+# Open-Source Resources
+# [Project Moonshot](https://aiverifyfoundation.sg/project-moonshot/)
+
