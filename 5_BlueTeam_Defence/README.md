@@ -51,4 +51,7 @@ Therefore, it is necessary to build new content review technologies that fully m
 
 # Open-Source Resources
 * [PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main)
+* [Guardrails AI](https://www.guardrailsai.com/)
+* [guardrails](https://github.com/guardrails-ai/guardrails)
+* [Guardrails Hub](https://www.guardrailsai.com/docs/concepts/hub)
 
