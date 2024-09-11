@@ -15,10 +15,22 @@
 
 ![t0151f1fc4110babf75](https://github.com/user-attachments/assets/9a6eb026-82b5-40ae-adff-2d61147e22b1)
 
-This repository documents our progress on a prompt engineering and prompt hacking course, focused on 
-* GenAI App developing techniques.
-* Strategies for working with the latest generation of general-purpose Large Language Models (LLMs).
-* Latest prompt hacking technology and mitigation
+This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course,
+- Prompt Engineering technology.
+- GenAI development technology.
+- Prompt Hacking technology.
+  - ChatGPT Jailbreaks
+  - GPT Assistants Prompt Leaks
+  - GPTs Prompt Injection
+  - LLM Prompt Security
+  - Super Prompts
+  - Prompt Hack
+  - Prompt Security
+  - Adversarial Machine Learning.
+- LLM security defence technology.
+- LLM Hacking resources
+- LLM security papers.
+
 
 # Background
 With the release of ChatGPT, LLMs have become increasingly mainstream, revolutionizing the way we interact with AI systems. Prior to ChatGPT, there were several notable advancements in NLP that have laid the foundation for this revolution, including the "Attention is All You Need" paper by Vaswani et. al., BERT, GPT-2, GPT-3, T5, RoBERTa, ELECTRA, and ALBERT. 
