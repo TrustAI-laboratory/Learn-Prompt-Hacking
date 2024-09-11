@@ -16,9 +16,9 @@
 ![t0151f1fc4110babf75](https://github.com/user-attachments/assets/9a6eb026-82b5-40ae-adff-2d61147e22b1)
 
 This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course,
-- Prompt Engineering technology.
-- GenAI development technology.
-- Prompt Hacking technology.
+- Prompt Engineering Technology.
+- GenAI Development Technology.
+- Prompt Hacking Technology.
   - ChatGPT Jailbreaks
   - GPT Assistants Prompt Leaks
   - GPTs Prompt Injection
@@ -27,9 +27,10 @@ This is The most comprehensive prompt hacking course available, which record our
   - Prompt Hack
   - Prompt Security
   - Adversarial Machine Learning.
-- LLM security defence technology.
-- LLM Hacking resources
-- LLM security papers.
+- LLM Security Defence Technology.
+- LLM Hacking Resources
+- LLM Security Papers
+- Conference Slides
 
 
 # Background
