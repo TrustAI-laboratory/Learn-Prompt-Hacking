@@ -1,1 +1,4 @@
-
+| Paper Name                                                       | Link                                     | Summary |
+|------------------------------------------------------------------|------------------------------------------|----------|
+| 《The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions》 | [link](https://arxiv.org/pdf/2404.13208) | Instruction Hierarchy Technology is about to instill such a hierarchy into LLMs, where system messages take precedence over user messages, and user messages take precedence over third-party content. <br><br> ![image](https://github.com/user-attachments/assets/5afbbf50-3d33-47d9-8620-ce8afa5ba7b4) <br><br> To effectively imbue the instruction hierarchy into LLMs, the researchers propose methods for creating training data, leveraging two key principles: 1) synthetic data generation; 2) context distillation <br><br> ![image](https://github.com/user-attachments/assets/7ff856fa-7d38-47da-8a30-1b8fd0313650) <br><br> | 
+| todo | link | todo |
