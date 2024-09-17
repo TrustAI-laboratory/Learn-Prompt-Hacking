@@ -49,9 +49,21 @@ Therefore, it is necessary to build new content review technologies that fully m
 
 
 
-# Open-Source Resources
+# Open-Source project
 * [PurpleLlama](https://github.com/meta-llama/PurpleLlama/tree/main)
 * [Guardrails AI](https://www.guardrailsai.com/)
 * [guardrails](https://github.com/guardrails-ai/guardrails)
 * [Guardrails Hub](https://www.guardrailsai.com/docs/concepts/hub)
+* [LangKit](https://github.com/whylabs/langkit)
+
+
+# Free-access Products
+* [Epivolis/Hyperion](https://huggingface.co/Epivolis/Hyperion)
+* [fmops/distilbert-prompt-injection](https://huggingface.co/fmops/distilbert-prompt-injection)
+* [deepset/deberta-v3-base-injection](https://huggingface.co/deepset/deberta-v3-base-injection)
+* [Myadav/setfit-prompt-injection-MiniLM-L3-v2](https://huggingface.co/Myadav/setfit-prompt-injection-MiniLM-L3-v2)
+
+
+# Commercial Products
+* [Microsoft Prompt Shields](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection#prompt-shields-for-documents)
 
