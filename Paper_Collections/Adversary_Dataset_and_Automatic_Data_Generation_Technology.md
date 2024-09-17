@@ -16,7 +16,7 @@
 - [pallms -- Payloads for Attacking Large Language Models](https://github.com/mik0w/pallms/tree/main)
 - [Lakera/gandalf_ignore_instructions](https://huggingface.co/datasets/Lakera/gandalf_ignore_instructions)
 - [JasperLS/prompt-injections](https://huggingface.co/datasets/JasperLS/prompt-injections)
-- [JasperLS/prompt-injections](https://huggingface.co/datasets/JasperLS/prompt-injections)
+- [pint-benchmark](https://github.com/lakeraai/pint-benchmark)
 
 
 
