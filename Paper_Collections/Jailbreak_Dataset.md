@@ -11,3 +11,4 @@ Open-Source Resources
 - [jailbreakbench](https://github.com/JailbreakBench/jailbreakbench)
 - [JailBreakV_28K](https://github.com/EddyLuo1232/JailBreakV_28K)
 - [TOXIGEN](https://github.com/microsoft/TOXIGEN)
+- [pallms -- Payloads for Attacking Large Language Models](https://github.com/mik0w/pallms/tree/main)
