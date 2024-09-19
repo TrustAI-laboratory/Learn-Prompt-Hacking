@@ -9,3 +9,5 @@
 - [promptfoo](https://github.com/promptfoo/promptfoo): test your LLM app locally
 - [garak](https://github.com/leondz/garak): Generative AI Red-teaming & Assessment Kit
   - [Doc](https://docs.garak.ai/garak)
+- [Mindgard](https://github.com/Mindgard/cli)
+  - [Intro](https://mindgard.ai/ai-security-platform)
