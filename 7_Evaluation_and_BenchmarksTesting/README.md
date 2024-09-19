@@ -7,4 +7,5 @@
   - [tutorial](https://inspect.ai-safety-institute.org.uk/tutorial.html)
 - [Project Moonshot](https://aiverifyfoundation.sg/project-moonshot/): An LLM Evaluation Toolkit
 - [promptfoo](https://github.com/promptfoo/promptfoo): test your LLM app locally
-- [garak](https://github.com/leondz/garak)
+- [garak](https://github.com/leondz/garak): Generative AI Red-teaming & Assessment Kit
+  - [Doc](https://docs.garak.ai/garak)
