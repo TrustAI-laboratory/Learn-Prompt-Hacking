@@ -5,3 +5,5 @@
 # Open-Source Framework
 - [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai): A framework for large language model evaluations
   - [tutorial](https://inspect.ai-safety-institute.org.uk/tutorial.html)
+- [Project Moonshot](https://aiverifyfoundation.sg/project-moonshot/)
+- [promptfoo](https://github.com/promptfoo/promptfoo)
