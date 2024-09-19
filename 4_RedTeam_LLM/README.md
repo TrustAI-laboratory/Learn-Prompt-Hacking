@@ -203,7 +203,8 @@ Organisations have sought to mitigate these risks in several ways. Anthropic, fo
 
 
 
-# Open-Source Resources
+# Open-Source Framworks
 * [Project Moonshot](https://aiverifyfoundation.sg/project-moonshot/)
 * [promptfoo](https://github.com/promptfoo/promptfoo)
+* [DSPy](https://github.com/haizelabs/dspy-redteam)
 
