@@ -208,5 +208,6 @@ Organisations have sought to mitigate these risks in several ways. Anthropic, fo
 
 
 # Open-Source Framworks
-- [DSPy](https://github.com/haizelabs/dspy-redteam)
+- [DSPy](https://github.com/haizelabs/dspy-redteam): DSPy is a framework for algorithmically optimizing LM prompts and weights, especially when LMs are used one or more times within a pipeline.
+ - [About DSPy](https://dspy-docs.vercel.app/docs/intro)
 
