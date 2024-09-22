@@ -11,3 +11,4 @@
   - [Doc](https://docs.garak.ai/garak)
 - [Mindgard](https://github.com/Mindgard/cli)
   - [Intro](https://mindgard.ai/ai-security-platform)
+- [LLMFuzzer](https://github.com/mnns/LLMFuzzer/tree/main): Fuzzing Framework for Large Language Models
