@@ -14,3 +14,4 @@
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer/tree/main): Fuzzing Framework for Large Language Models
 - [JailbreakEval](https://github.com/ThuCCSLab/JailbreakEval): A collection of automated evaluators for assessing jailbreak attempts.
   - [paper](https://arxiv.org/pdf/2406.09321v1)
+- [promptbench](https://github.com/microsoft/promptbench/tree/main): A unified evaluation framework for large language models
