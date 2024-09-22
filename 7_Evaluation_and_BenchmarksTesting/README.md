@@ -12,3 +12,5 @@
 - [Mindgard](https://github.com/Mindgard/cli)
   - [Intro](https://mindgard.ai/ai-security-platform)
 - [LLMFuzzer](https://github.com/mnns/LLMFuzzer/tree/main): Fuzzing Framework for Large Language Models
+- [JailbreakEval](https://github.com/ThuCCSLab/JailbreakEval): A collection of automated evaluators for assessing jailbreak attempts.
+  - [paper](https://arxiv.org/pdf/2406.09321v1)
