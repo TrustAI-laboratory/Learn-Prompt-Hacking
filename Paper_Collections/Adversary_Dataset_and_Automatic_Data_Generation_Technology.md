@@ -29,6 +29,9 @@
   - [huggingface](https://huggingface.co/datasets/PKU-Alignment/BeaverTails?row=0)
   - [blog](https://sites.google.com/view/pku-beavertails)
 - [SAP: the official repo of the paper "Attack Prompt Generation for Red Teaming and Defending Large Language Models" accepted to Findings of EMNLP 2023](https://github.com/Aatrox103/SAP/tree/main)
+- [declare-lab/HarmfulQA](https://huggingface.co/datasets/declare-lab/HarmfulQA)
+  - [red-instruct](https://github.com/declare-lab/red-instruct)
+  - [declare-lab/starling-7B](https://huggingface.co/declare-lab/starling-7B)
 
 
 
