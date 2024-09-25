@@ -39,5 +39,6 @@
   - [declare-lab/starling-7B](https://huggingface.co/declare-lab/starling-7B)
 - [CValues: 面向中文大模型价值观的评估与对齐研究](https://github.com/X-PLUG/CValues/tree/main)
 - [CPAD: The official dataset of paper "Goal-Oriented Prompt Attack and Safety Evaluation for LLMs"](https://github.com/liuchengyuan123/CPAD)
+- [ArtPrompt: Official Repo of ACL 2024 Paper `ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs`](https://github.com/uw-nsl/ArtPrompt/tree/main)
 
 
