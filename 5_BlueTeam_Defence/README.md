@@ -58,12 +58,19 @@ Therefore, it is necessary to build new content review technologies that fully m
 
 
 # Free-access Products
-* [Epivolis/Hyperion](https://huggingface.co/Epivolis/Hyperion)
-* [fmops/distilbert-prompt-injection](https://huggingface.co/fmops/distilbert-prompt-injection)
-* [deepset/deberta-v3-base-injection](https://huggingface.co/deepset/deberta-v3-base-injection)
-* [Myadav/setfit-prompt-injection-MiniLM-L3-v2](https://huggingface.co/Myadav/setfit-prompt-injection-MiniLM-L3-v2)
+- [Epivolis/Hyperion](https://huggingface.co/Epivolis/Hyperion)
+- [fmops/distilbert-prompt-injection](https://huggingface.co/fmops/distilbert-prompt-injection)
+- [deepset/deberta-v3-base-injection](https://huggingface.co/deepset/deberta-v3-base-injection)
+- [Myadav/setfit-prompt-injection-MiniLM-L3-v2](https://huggingface.co/Myadav/setfit-prompt-injection-MiniLM-L3-v2)
+- [rebuff: A self-hardening prompt injection detector](https://github.com/protectai/rebuff/tree/main)
+- [Vigil: Security scanner for Large Language Model (LLM) prompts](https://github.com/deadbits/vigil-llm)
+- [llm-guard](https://github.com/protectai/llm-guard)
+  - [llm-guard-playground](https://huggingface.co/spaces/protectai/llm-guard-playground)
 
 
 # Commercial Products
 * [Microsoft Prompt Shields](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection#prompt-shields-for-documents)
 
+
+# Huggingface Models
+* [martin-ha/toxic-comment-model](https://huggingface.co/martin-ha/toxic-comment-model)
