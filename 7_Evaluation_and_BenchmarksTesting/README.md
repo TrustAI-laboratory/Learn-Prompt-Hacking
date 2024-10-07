@@ -15,3 +15,4 @@
 - [JailbreakEval](https://github.com/ThuCCSLab/JailbreakEval): A collection of automated evaluators for assessing jailbreak attempts.
   - [paper](https://arxiv.org/pdf/2406.09321v1)
 - [promptbench](https://github.com/microsoft/promptbench/tree/main): A unified evaluation framework for large language models
+- [ParlAI](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialogue datasets
