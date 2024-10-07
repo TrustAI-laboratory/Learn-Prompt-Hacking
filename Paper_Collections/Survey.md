@@ -1,1 +1,4 @@
-
+| Paper Name                                                       | Link                                     | Summary |
+|------------------------------------------------------------------|------------------------------------------|----------|
+| 《Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey》 | [link](https://arxiv.org/abs/2402.09283) | Large Language Models (LLMs) are now commonplace in conversation applications. However, their risks of misuse for generating harmful responses have raised serious societal concerns and spurred recent research on LLM conversation safety. Therefore, in this survey, we provide a comprehensive overview of recent studies, covering three critical aspects of LLM conversation safety: attacks, defenses, and evaluations. Our goal is to provide a structured summary that enhances understanding of LLM conversation safety and encourages further investigation into this important subject. <br><br> <img width="715" alt="image" src="https://github.com/user-attachments/assets/0bffea74-45b4-4629-9193-2fd9e7c04db0"> | 
+| todo | link | todo |
