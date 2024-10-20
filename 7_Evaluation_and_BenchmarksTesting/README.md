@@ -16,3 +16,8 @@
   - [paper](https://arxiv.org/pdf/2406.09321v1)
 - [promptbench](https://github.com/microsoft/promptbench/tree/main): A unified evaluation framework for large language models
 - [ParlAI](https://github.com/facebookresearch/ParlAI): A framework for training and evaluating AI models on a variety of openly available dialogue datasets
+- [Giskard](https://www.giskard.ai/)
+  - [Doc](https://docs.giskard.ai/en/latest/getting_started/index.html)
+  - [LLM Evaluation Hub](https://www.giskard.ai/products/llm-evaluation-hub)
+  - [quickstart_llm.ipynb](https://colab.research.google.com/github/giskard-ai/giskard/blob/main/docs/getting_started/quickstart/quickstart_llm.ipynb#scrollTo=gKFU5-HYqTGJ)
+  - [github](https://github.imc.re/Giskard-AI/giskard/tree/main)
