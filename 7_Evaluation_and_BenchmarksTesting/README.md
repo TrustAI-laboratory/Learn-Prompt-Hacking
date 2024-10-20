@@ -21,3 +21,4 @@
   - [LLM Evaluation Hub](https://www.giskard.ai/products/llm-evaluation-hub)
   - [quickstart_llm.ipynb](https://colab.research.google.com/github/giskard-ai/giskard/blob/main/docs/getting_started/quickstart/quickstart_llm.ipynb#scrollTo=gKFU5-HYqTGJ)
   - [github](https://github.imc.re/Giskard-AI/giskard/tree/main)
+- [DeepEval](https://github.com/confident-ai/deepeval)
