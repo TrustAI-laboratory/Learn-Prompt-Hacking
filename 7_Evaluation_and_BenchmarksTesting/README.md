@@ -27,3 +27,4 @@
   - [Leveraging LLM-as-a-Judge for Automated and Scalable Evaluation](https://www.confident-ai.com/blog/why-llm-as-a-judge-is-the-best-llm-evaluation-method)
   - [Evaluating LLM Systems: Essential Metrics, Benchmarks, and Best Practices](https://www.confident-ai.com/blog/evaluating-llm-systems-metrics-benchmarks-and-best-practices)
   - [LLM Testing in 2024: Top Methods and Strategies](https://www.confident-ai.com/blog/llm-testing-in-2024-top-methods-and-strategies)
+- [GreatLibrarian](https://github.com/JerryMazeyu/GreatLibrarian)
