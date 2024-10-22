@@ -42,5 +42,7 @@
 - [CPAD: The official dataset of paper "Goal-Oriented Prompt Attack and Safety Evaluation for LLMs"](https://github.com/liuchengyuan123/CPAD)
 - [ArtPrompt: Official Repo of ACL 2024 Paper `ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs`](https://github.com/uw-nsl/ArtPrompt/tree/main)
 - [JADE 3.0：大模型安全对齐](https://github.com/whitzard-ai/jade-db/tree/main/jade-db-v3.0)
+- [LLM evaluation datasets](https://huggingface.co/collections/clefourrier/llm-evaluation-datasets-64f9c369d3cd204ddde40ef8)
+- [A collection of benchmarks and datasets for evaluating LLM](https://github.com/leobeeson/llm_benchmarks)
 
 
