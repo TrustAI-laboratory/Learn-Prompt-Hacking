@@ -34,6 +34,7 @@
 - [BeaverTails: is a collection of datasets designed to facilitate research on safety alignment in large language models (LLMs)](https://github.com/PKU-Alignment/beavertails/tree/main)
   - [huggingface](https://huggingface.co/datasets/PKU-Alignment/BeaverTails?row=0)
   - [blog](https://sites.google.com/view/pku-beavertails)
+  - [paper](https://arxiv.org/pdf/2307.04657)
 - [SAP: the official repo of the paper "Attack Prompt Generation for Red Teaming and Defending Large Language Models" accepted to Findings of EMNLP 2023](https://github.com/Aatrox103/SAP/tree/main)
 - [declare-lab/HarmfulQA](https://huggingface.co/datasets/declare-lab/HarmfulQA)
   - [red-instruct](https://github.com/declare-lab/red-instruct)
