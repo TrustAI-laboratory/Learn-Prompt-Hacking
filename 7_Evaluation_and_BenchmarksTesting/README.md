@@ -1,3 +1,7 @@
+# White Paper
+- [CATALOGUING LLM EVALUATIONS - aiverifyfoundation](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
+
+
 # Open-Source Code Project
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat)
 
