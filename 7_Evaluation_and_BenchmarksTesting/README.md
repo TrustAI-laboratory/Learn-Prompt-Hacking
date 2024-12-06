@@ -1,5 +1,5 @@
 # White Paper
-- [CATALOGUING LLM EVALUATIONS - aiverifyfoundation](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
+- [《CATALOGUING LLM EVALUATIONS》 - aiverifyfoundation](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf)
 
 
 # Open-Source Code Project
