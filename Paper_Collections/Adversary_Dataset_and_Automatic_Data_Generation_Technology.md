@@ -21,6 +21,7 @@
 - [jailbreakbench](https://github.com/JailbreakBench/jailbreakbench)
   - [blog](https://safetyprompts.com/)
   - [huggingface](https://huggingface.co/datasets/JailbreakBench/JBB-Behaviors?row=0)
+  - [news](https://mp.weixin.qq.com/s/YYAGC4dJTl60CT_uiPw4Hg)
 - [JailBreakV_28K](https://github.com/EddyLuo1232/JailBreakV_28K)
 - [TOXIGEN](https://github.com/microsoft/TOXIGEN)
 - [pallms -- Payloads for Attacking Large Language Models](https://github.com/mik0w/pallms/tree/main)
