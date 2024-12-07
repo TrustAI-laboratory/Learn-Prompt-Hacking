@@ -45,5 +45,7 @@
 - [JADE 3.0：大模型安全对齐](https://github.com/whitzard-ai/jade-db/tree/main/jade-db-v3.0)
 - [LLM evaluation datasets](https://huggingface.co/collections/clefourrier/llm-evaluation-datasets-64f9c369d3cd204ddde40ef8)
 - [A collection of benchmarks and datasets for evaluating LLM](https://github.com/leobeeson/llm_benchmarks)
+- [LLMs-Sec-Eval: 由亚信安全自建的数据集用于评估大模型在网络安全方向的专项能力](https://github.com/yaozhspider/LLMs-Sec-Eval/tree/main)
+  - [news](https://mp.weixin.qq.com/s/wSBIakPOS2F6z4h5oVtgnw)
 
 
