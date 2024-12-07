@@ -52,5 +52,8 @@
 - [AlignBench](https://github.com/THUDM/AlignBench)
 - [HarmBench Dataset](https://www.harmbench.org/explore)
   - [github](https://github.com/centerforaisafety/HarmBench)
+  - [hugeface](https://huggingface.co/datasets/walledai/HarmBench/viewer/standard)
+  - [hugeface](https://huggingface.co/datasets/walledai/TDC23-RedTeaming)
+  - [hugeface](https://huggingface.co/datasets/coderchen01/HarmfulGeneration-HarmBench?row=0)
 
 
