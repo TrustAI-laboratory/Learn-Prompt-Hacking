@@ -50,5 +50,7 @@
 - [LLMs-Sec-Eval: 由亚信安全自建的数据集用于评估大模型在网络安全方向的专项能力](https://github.com/yaozhspider/LLMs-Sec-Eval/tree/main)
   - [news](https://mp.weixin.qq.com/s/wSBIakPOS2F6z4h5oVtgnw)
 - [AlignBench](https://github.com/THUDM/AlignBench)
+- [HarmBench Dataset](https://www.harmbench.org/explore)
+  - [github](https://github.com/centerforaisafety/HarmBench)
 
 
