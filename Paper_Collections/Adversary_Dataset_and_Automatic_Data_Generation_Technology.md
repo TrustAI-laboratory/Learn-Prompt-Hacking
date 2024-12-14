@@ -55,5 +55,6 @@
   - [hugeface](https://huggingface.co/datasets/walledai/HarmBench/viewer/standard)
   - [hugeface](https://huggingface.co/datasets/walledai/TDC23-RedTeaming)
   - [hugeface](https://huggingface.co/datasets/coderchen01/HarmfulGeneration-HarmBench?row=0)
+- [HarmfulQA](https://huggingface.co/datasets/declare-lab/CategoricalHarmfulQA?row=0)
 
 
