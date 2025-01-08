@@ -46,6 +46,8 @@ Resources to master the craft of prompt engineering.
 - [Security_Agents.md](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking/blob/main/Hack_Resource_Collections/Security_Agents.md)
 
 
+# Uncensored Models
+- [cognitivecomputations/WizardLM-7B-Uncensored](https://huggingface.co/cognitivecomputations/WizardLM-7B-Uncensored)
 
 # Ethics
 Since this study only involved publicly available data and had no interactions with participants, it is not regarded as human subjects research by our Institutional Review Boards (IRB). Nonetheless, since one of our goals is to measure the risk of LLMs in answering harmful questions, it is inevitable to disclose how a model can generate hateful content. This can bring up worries about potential misuse. However, we strongly believe that raising awareness of the problem is even more crucial, as it can inform LLM vendors and the research community to develop stronger safeguards and contribute to the more responsible release of these models.
