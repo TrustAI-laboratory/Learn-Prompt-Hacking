@@ -1,0 +1,1 @@
+- [opencompass/CompassJudger-1-14B-Instruct](https://huggingface.co/opencompass/CompassJudger-1-14B-Instruct)
