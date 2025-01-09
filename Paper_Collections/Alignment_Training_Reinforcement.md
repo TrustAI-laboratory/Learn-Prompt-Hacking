@@ -6,4 +6,6 @@
 | 《Deliberative Alignment: Reasoning Enables Safer Language Models》 | [link](https://www.arxiv.org/abs/2412.16339) | <img width="865" alt="image" src="https://github.com/user-attachments/assets/680da64e-e267-4fe8-8970-982fd631739d" /> |
 | 《StruQ: Defending Against Prompt Injection with Structured Queries》| [link](https://arxiv.org/pdf/2402.06363) | <img width="1004" alt="image" src="https://github.com/user-attachments/assets/8cb7e09b-1dad-48c7-a080-25e650b15570" /> | 
 | 《Aligning LLMs to Be Robust Against Prompt Injection》 | [link](https://arxiv.org/pdf/2410.05451) | <img width="1171" alt="image" src="https://github.com/user-attachments/assets/2c1904ca-fbd8-4b08-968e-2a14e5c464a2" /> |
+| 《Detoxifying Large Language Models via Knowledge Editing》| [link](https://arxiv.org/pdf/2403.14472) | <img width="537" alt="image" src="https://github.com/user-attachments/assets/d2b7a2d1-3ba1-4e45-b418-a0e567a56cc9" /> | 
+
 
