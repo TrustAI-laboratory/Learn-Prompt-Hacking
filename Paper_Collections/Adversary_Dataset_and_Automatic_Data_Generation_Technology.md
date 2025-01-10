@@ -59,5 +59,6 @@
 - [HarmfulQA](https://huggingface.co/datasets/declare-lab/CategoricalHarmfulQA?row=0)
 - [CompassHub](https://hub.opencompass.org.cn/home)
 - [多轮对话安全对齐数据SafeMTData](https://wisemodel.cn/datasets/renqibing/SafeMTData/blob/main/Attack_600.json)
+- [HarmfulQA](https://huggingface.co/datasets/declare-lab/HarmfulQA)
 
 
