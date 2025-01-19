@@ -57,6 +57,9 @@
 | 《Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring》| [link](https://arxiv.org/pdf/2410.21083) | <img width="461" alt="image" src="https://github.com/user-attachments/assets/a88779b5-ad60-4f35-bac5-beef73b155f0" /> <img width="967" alt="image" src="https://github.com/user-attachments/assets/4ea6688c-1499-437d-a9bc-1819fb607368" /> |
 | 《MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue》| [link](https://arxiv.org/pdf/2411.03814) | <img width="627" alt="image" src="https://github.com/user-attachments/assets/374a95b1-595b-48d8-96c6-db0281d9adaf" /> <br><br> <img width="1276" alt="image" src="https://github.com/user-attachments/assets/424b3830-0296-4516-afba-d0ea90ff101d" /> |
 | 《Bad Likert Judge: A Novel Multi-Turn Technique to Jailbreak LLMs by Misusing Their Evaluation Capability》| [link](https://unit42.paloaltonetworks.com/multi-turn-technique-jailbreaks-llms/) | ![image](https://github.com/user-attachments/assets/253102f6-816c-46a0-9053-40d4ada5027f) | 
+| 《Deceptive Delight: Jailbreak LLMs Through Camouflage and Distraction》| [link](https://unit42.paloaltonetworks.com/jailbreak-llms-through-camouflage-distraction/) | ![image](https://github.com/user-attachments/assets/a47432ec-4881-4990-acdd-13344634d0f2)  ![image](https://github.com/user-attachments/assets/cfc06dfb-f2d4-4e50-ac7b-2af741a52459) | 
+
+
 
 
 
