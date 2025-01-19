@@ -66,5 +66,6 @@
 - [多轮对话安全对齐数据SafeMTData](https://wisemodel.cn/datasets/renqibing/SafeMTData/blob/main/Attack_600.json)
 - [HarmfulQA](https://huggingface.co/datasets/declare-lab/HarmfulQA)
 - [Red Queen](https://github.com/kriti-hippo/red_queen/tree/main)
+- [secbench](https://secbench.org/dataset)
 
 
