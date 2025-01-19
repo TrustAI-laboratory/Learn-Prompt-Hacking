@@ -62,6 +62,8 @@
 | 《Jailbreaking Large Language Models with Symbolic Mathematics》| [link](https://arxiv.org/pdf/2409.11445) | ![image](https://github.com/user-attachments/assets/a3b8b14a-0099-48fc-9599-3cd2ab66cd71) |
 | 《Unleashing the Unseen: Harnessing Benign Datasets for Jailbreaking Large Language Models》| [link](https://arxiv.org/pdf/2410.00451) | <img width="669" alt="image" src="https://github.com/user-attachments/assets/5600a779-c396-429b-abbb-3f99edb12baf" /> |
 | 《F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents》| [link](https://arxiv.org/pdf/2410.08776) | <img width="769" alt="image" src="https://github.com/user-attachments/assets/ee5e4992-fa89-470e-abdd-2f354cd15f0d" /> <img width="1480" alt="image" src="https://github.com/user-attachments/assets/c77b38ac-d85f-41bf-9c70-a8644abfbf53" /> |
+| 《PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach》| [link](https://arxiv.org/pdf/2409.14177) | <img width="1090" alt="image" src="https://github.com/user-attachments/assets/ef70d532-0a2d-4edf-8c34-a8e500e70786" /> <img width="894" alt="image" src="https://github.com/user-attachments/assets/8db62166-82ab-464d-be42-0de89f8d8600" /> |
+
 
 
 
