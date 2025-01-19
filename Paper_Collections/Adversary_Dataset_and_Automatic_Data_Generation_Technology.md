@@ -23,6 +23,7 @@
 ## Open-Source Resources
 - [StrongReject](https://huggingface.co/datasets/raft-security-lab/strongrejectPlusPlus)
 - [AdvBench](https://huggingface.co/datasets/walledai/AdvBench)
+- [MaliciousInstruct ](https://huggingface.co/datasets/walledai/MaliciousInstruct)
 - [jailbreakbench](https://github.com/JailbreakBench/jailbreakbench)
   - [blog](https://safetyprompts.com/)
   - [huggingface](https://huggingface.co/datasets/JailbreakBench/JBB-Behaviors?row=0)
