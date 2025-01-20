@@ -5,5 +5,7 @@
 | 《InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models》 | [link](https://arxiv.org/pdf/2410.22770) | <img width="1043" alt="image" src="https://github.com/user-attachments/assets/c9f9c139-9c4b-4c18-a347-de570432c11b" /> | 
 | 《Efficient Detection of Toxic Prompts in Large Language Models》| [link](https://arxiv.org/pdf/2408.11727) | <img width="740" alt="image" src="https://github.com/user-attachments/assets/e1bf97fc-d61d-4316-9d17-597f9267e521" /> | 
 | 《RAPID RESPONSE: MITIGATING LLM JAILBREAKS WITH A FEW EXAMPLES》| [link](https://arxiv.org/pdf/2411.07494) | <img width="1027" alt="image" src="https://github.com/user-attachments/assets/f3730845-51c8-4871-a9a2-193ffcc5f9d7" /> | 
+| 《StruQ: Defending Against Prompt Injection with Structured Queries》| [link](https://arxiv.org/pdf/2402.06363) | <img width="1114" alt="image" src="https://github.com/user-attachments/assets/f5a9c358-14b0-4596-97d4-7845a37153fe" /> <img width="1097" alt="image" src="https://github.com/user-attachments/assets/60033943-06b4-4056-a474-2c09b6a25d36" /> |
+
 
 
