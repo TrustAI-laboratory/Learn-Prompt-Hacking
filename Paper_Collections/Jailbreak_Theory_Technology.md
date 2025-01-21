@@ -65,6 +65,7 @@
 | 《PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach》| [link](https://arxiv.org/pdf/2409.14177) | <img width="1090" alt="image" src="https://github.com/user-attachments/assets/ef70d532-0a2d-4edf-8c34-a8e500e70786" /> <img width="894" alt="image" src="https://github.com/user-attachments/assets/8db62166-82ab-464d-be42-0de89f8d8600" /> |
 | 《Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM》| [link](https://arxiv.org/abs/2405.05610) | ![image](https://github.com/user-attachments/assets/67c1d5e5-138d-4592-8a70-11cc6d358b43)|
 | 《COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability》| [link](https://arxiv.org/abs/2402.08679) | ![image](https://github.com/user-attachments/assets/9551b53c-f6a0-4e48-9d0a-2786dfdd1ea2) |
+| 《RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent》| [link](https://arxiv.org/pdf/2407.16667) | <img width="1286" alt="image" src="https://github.com/user-attachments/assets/443eb8f7-5bb7-4a1b-960c-58cc3e0632e7" /> |
 
 
 
