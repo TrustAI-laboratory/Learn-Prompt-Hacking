@@ -66,6 +66,8 @@
 | 《Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM》| [link](https://arxiv.org/abs/2405.05610) | ![image](https://github.com/user-attachments/assets/67c1d5e5-138d-4592-8a70-11cc6d358b43)|
 | 《COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability》| [link](https://arxiv.org/abs/2402.08679) | ![image](https://github.com/user-attachments/assets/9551b53c-f6a0-4e48-9d0a-2786dfdd1ea2) |
 | 《RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent》| [link](https://arxiv.org/pdf/2407.16667) | <img width="1286" alt="image" src="https://github.com/user-attachments/assets/443eb8f7-5bb7-4a1b-960c-58cc3e0632e7" /> |
+| 《PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs》| [link](https://arxiv.org/pdf/2409.14729) | <img width="1159" alt="image" src="https://github.com/user-attachments/assets/57211e41-6db8-4f6d-b301-535fda74523b" /> <img width="1152" alt="image" src="https://github.com/user-attachments/assets/a17e8897-167f-4310-9bb9-3af091c05ff0" /> |
+
 
 
 
