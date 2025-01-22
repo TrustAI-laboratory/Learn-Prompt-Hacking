@@ -6,4 +6,5 @@
 | 《InstructEval: Systematic Evaluation of Instruction Selection Methods》| [link](https://arxiv.org/pdf/2307.00259) | <img width="424" alt="image" src="https://github.com/user-attachments/assets/e281a708-b5e9-403e-91ee-3e358d3de821" /> | 
 | 《Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement》| [link](https://arxiv.org/abs/2407.18370) | ![image](https://github.com/user-attachments/assets/b0b51ecb-11cc-4ae0-b272-a49542f33684) | 
 | 《VLMEvalKit》| [link](https://mp.weixin.qq.com/s/8fsn3SZhYYpYRDUkCDuIPg) | ![image](https://github.com/user-attachments/assets/69bad22e-1728-4886-8d51-70255cc2e65b) | 
+| 《PertEval: Unveiling Real Knowledge Capacity of LLMs with Knowledge-Invariant Perturbations》| [link](https://arxiv.org/abs/2405.19740) | ![image](https://github.com/user-attachments/assets/a0877267-0931-448e-9616-867a74fbe57a) |
 
