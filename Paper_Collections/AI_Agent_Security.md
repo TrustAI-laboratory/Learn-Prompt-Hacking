@@ -5,3 +5,5 @@
 | 《A First Look at GPT Apps: Landscape and Vulnerability》| [link](https://arxiv.org/pdf/2402.15105) | <img width="512" alt="image" src="https://github.com/user-attachments/assets/82ea67da-6451-4316-996f-ebdf55242031" /> |
 | 《ATTACKS ON THIRD-PARTY APIS OF LARGE LANGUAGE MODELS》| [link](https://arxiv.org/pdf/2404.16891) | <img width="920" alt="image" src="https://github.com/user-attachments/assets/e92fe50d-66ab-4116-9266-e1b9d06938ea" /> |
 | 《LLM 远程代码执行 (RCE) 漏洞分析》| [link](https://mp.weixin.qq.com/s/DYUvfNcAKKVZv7j8cV2Mwg) | |
+| 《PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety》 | [link](https://arxiv.org/html/2401.11880v2) | ![image](https://github.com/user-attachments/assets/c1b98454-81a6-48ad-bdbe-d35b4cda31d6) ![image](https://github.com/user-attachments/assets/1f47cd96-0545-412f-b3bc-9800cca1955a) |
+
