@@ -6,4 +6,5 @@
 | 《ATTACKS ON THIRD-PARTY APIS OF LARGE LANGUAGE MODELS》| [link](https://arxiv.org/pdf/2404.16891) | <img width="920" alt="image" src="https://github.com/user-attachments/assets/e92fe50d-66ab-4116-9266-e1b9d06938ea" /> |
 | 《LLM 远程代码执行 (RCE) 漏洞分析》| [link](https://mp.weixin.qq.com/s/DYUvfNcAKKVZv7j8cV2Mwg) | |
 | 《PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety》 | [link](https://arxiv.org/html/2401.11880v2) | ![image](https://github.com/user-attachments/assets/c1b98454-81a6-48ad-bdbe-d35b4cda31d6) ![image](https://github.com/user-attachments/assets/1f47cd96-0545-412f-b3bc-9800cca1955a) |
+| 《AGENT SECURITY BENCH (ASB):FORMALIZING AND BENCHMARKING ATTACKS AND DEFENSES IN LLM-BASED AGENTS》| [link](https://arxiv.org/pdf/2410.02644) | <img width="947" alt="image" src="https://github.com/user-attachments/assets/d5f84530-2134-446d-8cef-62ea55dd345a" /> |
 
