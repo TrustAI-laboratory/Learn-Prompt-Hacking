@@ -7,4 +7,7 @@
 | 《Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement》| [link](https://arxiv.org/abs/2407.18370) | ![image](https://github.com/user-attachments/assets/b0b51ecb-11cc-4ae0-b272-a49542f33684) | 
 | 《VLMEvalKit》| [link](https://mp.weixin.qq.com/s/8fsn3SZhYYpYRDUkCDuIPg) | ![image](https://github.com/user-attachments/assets/69bad22e-1728-4886-8d51-70255cc2e65b) | 
 | 《PertEval: Unveiling Real Knowledge Capacity of LLMs with Knowledge-Invariant Perturbations》| [link](https://arxiv.org/abs/2405.19740) | ![image](https://github.com/user-attachments/assets/a0877267-0931-448e-9616-867a74fbe57a) |
+| 《Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents》| [link](https://arxiv.org/abs/2407.09295) | ![image](https://github.com/user-attachments/assets/c03eb13f-5ea0-493e-92f1-310506a1b648) ![image](https://github.com/user-attachments/assets/ef85c562-8b66-4e79-a0b8-8e0f86f8307e) | 
+
+
 
