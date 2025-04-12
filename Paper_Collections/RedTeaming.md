@@ -10,6 +10,7 @@
 | 《Attack Atlas: A Practitioner’s Perspective on Challenges and Pitfalls in Red Teaming GenAI》| [link](https://arxiv.org/pdf/2409.15398) | <img width="894" alt="image" src="https://github.com/user-attachments/assets/47cc75df-7c67-43ea-bfcb-eb0aaea2f9e1" /> | 
 | 《KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs》| [link](https://arxiv.org/pdf/2502.05223) | <img width="1052" alt="image" src="https://github.com/user-attachments/assets/ac78dab9-f88b-40ef-9754-b9be9f12a088" /> <img width="786" alt="image" src="https://github.com/user-attachments/assets/e800875d-434a-4224-8eb1-dbad3acec5fb" /> |
 | 《OpenAI’s Approach to External Red Teaming for AI Models and Systems》| [link](https://cdn.openai.com/papers/openais-approach-to-external-red-teaming.pdf) | <img width="1071" alt="image" src="https://github.com/user-attachments/assets/aaefc843-cfc1-4c52-994c-e309a843b543" /> | 
+| 《Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning》| [link](https://cdn.openai.com/papers/diverse-and-effective-red-teaming.pdf) | <img width="958" alt="image" src="https://github.com/user-attachments/assets/d7fd1176-2a5e-4a65-9a98-ed171f09a00b" /> | 
 
 
 
