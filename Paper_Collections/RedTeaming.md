@@ -9,5 +9,7 @@
 | 《CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution》| [link](https://arxiv.org/abs/2410.16256) | ![image](https://github.com/user-attachments/assets/061dfb03-cdbe-4a93-ac4d-a33d48fe67b8) |
 | 《Attack Atlas: A Practitioner’s Perspective on Challenges and Pitfalls in Red Teaming GenAI》| [link](https://arxiv.org/pdf/2409.15398) | <img width="894" alt="image" src="https://github.com/user-attachments/assets/47cc75df-7c67-43ea-bfcb-eb0aaea2f9e1" /> | 
 | 《KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs》| [link](https://arxiv.org/pdf/2502.05223) | <img width="1052" alt="image" src="https://github.com/user-attachments/assets/ac78dab9-f88b-40ef-9754-b9be9f12a088" /> <img width="786" alt="image" src="https://github.com/user-attachments/assets/e800875d-434a-4224-8eb1-dbad3acec5fb" /> |
+| 《OpenAI’s Approach to External Red Teaming for AI Models and Systems》| [link](https://cdn.openai.com/papers/openais-approach-to-external-red-teaming.pdf) | <img width="1071" alt="image" src="https://github.com/user-attachments/assets/aaefc843-cfc1-4c52-994c-e309a843b543" /> | 
+
 
 
