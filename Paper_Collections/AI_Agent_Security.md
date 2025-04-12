@@ -8,5 +8,7 @@
 | 《PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety》 | [link](https://arxiv.org/html/2401.11880v2) | ![image](https://github.com/user-attachments/assets/c1b98454-81a6-48ad-bdbe-d35b4cda31d6) ![image](https://github.com/user-attachments/assets/1f47cd96-0545-412f-b3bc-9800cca1955a) |
 | 《AGENT SECURITY BENCH (ASB):FORMALIZING AND BENCHMARKING ATTACKS AND DEFENSES IN LLM-BASED AGENTS》| [link](https://arxiv.org/pdf/2410.02644) | <img width="947" alt="image" src="https://github.com/user-attachments/assets/d5f84530-2134-446d-8cef-62ea55dd345a" /> |
 | 《AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents》| [link](https://arxiv.org/pdf/2503.18666v1) |  <img width="400" alt="image" src="https://github.com/user-attachments/assets/24fa5b87-d587-4574-b6b6-9eb8ba2cac0c" /> ![image](https://github.com/user-attachments/assets/90ff19c6-5047-4edf-9b31-8118d2b78a9e) |
+| 《Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions》| [link](https://arxiv.org/pdf/2503.23278) | <img width="953" alt="image" src="https://github.com/user-attachments/assets/c4ba447f-9dcc-4061-a910-854b166c0c0a" /> <img width="964" alt="image" src="https://github.com/user-attachments/assets/5ef16b49-819f-4a6b-9ef1-928333e3d89c" /> | 
+
 
 
