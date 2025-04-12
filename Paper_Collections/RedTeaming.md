@@ -11,6 +11,9 @@
 | 《KDA: A Knowledge-Distilled Attacker for Generating Diverse Prompts to Jailbreak LLMs》| [link](https://arxiv.org/pdf/2502.05223) | <img width="1052" alt="image" src="https://github.com/user-attachments/assets/ac78dab9-f88b-40ef-9754-b9be9f12a088" /> <img width="786" alt="image" src="https://github.com/user-attachments/assets/e800875d-434a-4224-8eb1-dbad3acec5fb" /> |
 | 《OpenAI’s Approach to External Red Teaming for AI Models and Systems》| [link](https://cdn.openai.com/papers/openais-approach-to-external-red-teaming.pdf) | <img width="1071" alt="image" src="https://github.com/user-attachments/assets/aaefc843-cfc1-4c52-994c-e309a843b543" /> | 
 | 《Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning》| [link](https://cdn.openai.com/papers/diverse-and-effective-red-teaming.pdf) | <img width="958" alt="image" src="https://github.com/user-attachments/assets/d7fd1176-2a5e-4a65-9a98-ed171f09a00b" /> | 
+| 《AutoRedTeamer: Autonomous Red Teaming with Lifelong Attack Integration》| [link](https://arxiv.org/abs/2503.15754) | <img width="1293" alt="image" src="https://github.com/user-attachments/assets/ae3a60d1-ebea-4ebb-9419-05d59523e096" /> <img width="1192" alt="image" src="https://github.com/user-attachments/assets/3fec143d-b493-4e3f-8979-c15c0d425a06" /> | 
+
+
 
 
 
